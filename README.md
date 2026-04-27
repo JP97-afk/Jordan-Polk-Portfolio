@@ -98,6 +98,3 @@ They drift when alignment doesn’t scale with complexity.
 ## 🤝 Let’s Connect
 
 Open to connecting with teams working on complex programs across AI, cloud, and infrastructure!
-to:
-
-“top 1% inbound magnet”
