@@ -21,7 +21,7 @@ AI-driven system designed to accelerate program setup and execution.
 - Enables faster alignment across teams
 
 **Impact:**
-- Reduced program setup time by ~90%  
+- Reduced program setup time by 90%  
 - Improved consistency across program execution  
 - Accelerated decision-making and delivery timelines  
 
@@ -54,16 +54,14 @@ Integrated AI into program workflows to improve visibility, decision-making, and
 
 ## 🧠 How I Approach Programs
 
-I focus on how systems behave as they scale—not just how work gets done.
+I focus on how systems behave as they scale, not just how work gets done.
 
 **Core principles:**
 - Clear decision ownership across teams  
 - Shared visibility into program health and risk  
 - Alignment at speed across distributed environments  
 
-Programs don’t break because of execution.
-
-They drift when alignment doesn’t scale with complexity.
+Programs don’t break because of execution. They decline when alignment doesn’t scale with complexity.
 
 ---
 
@@ -80,9 +78,9 @@ They drift when alignment doesn’t scale with complexity.
 
 ## 🛠️ Tools & Technologies
 
-- Cloud: Azure, AWS, OCI  
+- Cloud: Azure, HPE GreenLake, AWS, OCI  
 - Data & AI: Power BI, AI/Copilot Tools  
-- Delivery: Jira, DevOps, Agile Frameworks  
+- Delivery: Jira, DevOps, Agile Frameworks, Primavera P6  
 
 ---
 
